@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kenneth Westerman, PhD"
+title                    : "Kenny Westerman"
 title_separator          : "-"
-name                     : &name "Kenneth Westerman"
-description              : &description "Research Fellow at Massachusetts General Hospital and the Broad Institute of MIT and Harvard"
+name                     : &name "Kenny Westerman"
+description              : &description "Kenny Westerman's personal and academic site"
 url                      : https://kwesterman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kwesterman/kwesterman.github.io"
@@ -80,15 +80,19 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kenny Westerman"
-  avatar           : "profile.png"
-  bio              : "Kenny Westerman is a research fellow at MGH and the Broad Institute, interested in developing improved approaches to personalized nutrition using genomic and bioinformatic methods. He received his PhD in Biochemical and Molecular Nutrition from Tufts University, and is now a part of the Manning Laboratory, where his work involves the development of software for large-scale gene-environment interaction analysis and its application in uncovering novel gene-diet interactions. "
-  location         : "Location"
+  name             : "Kenneth Westerman, PhD"
+  avatar           : "KEW_headshot.jpg"
+  bio              : "Research Fellow at Massachusetts General Hospital and the Broad Institute of MIT and Harvard. \"Kenneth\" only when taking myself too seriously."
+  location         : "Washington, DC | Boston, MA"
+  email            : "kewesterman@mgh.harvard.edu"
+  github           : "kwesterman"
+  twitter          : "kewesterman"
+  linkedin         : "kennethwesterman"
+  orcid            : "http://orcid.org/0000-0001-7619-1868"
+  pubmed           : #"https://pubmed.ncbi.nlm.nih.gov/?term=kenneth+westerman&sort=date"
+  googlescholar    : #"https://scholar.google.com/citations?user=bNSlrr0AAAAJ&hl=en"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=bNSlrr0AAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +100,16 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "kwesterman"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/kennethwesterman/"
-  orcid            : "http://orcid.org/my-orcid?orcid=0000-0001-7619-1868"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "kewesterman"
   vine             :
   weibo            :
   xing             :
