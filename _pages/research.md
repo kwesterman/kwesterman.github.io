@@ -54,6 +54,10 @@ DNA methylation can integrate biological information from genetic variants and e
 
 # Additional topics
 
+## Longitudinal data analysis
+
+I'm interested in exploring the ways that longitudinal data, where individuals are measured at multiple timepoints, can help overcome some of the limitations of observational data analysis. I've developed an [R package](https://github.com/kwesterman/longsim) that can be used to simulate longitudinal datasets and put together a longitudinal data analysis [workshop](https://github.com/kwesterman/lda-workshop) with the goal of explaining how longitudinal data and linear mixed models can allow for better epidemiological studies of complex traits.
+
 ## Contribution to the development of cloud computing platforms
 
 Genomic science is increasingly migrating to cloud computing platforms for both scalability of computational resources and improved data security, but this migration process requires substantial infrastructure improvements. I have been fortunate to have opportunities to contribute to the development of these platforms. First, I have developed [workflows](https://dockstore.org/organizations/LSGxE) (using Workflow Description Language) to conduct GxE tests with a variety of software tools in a way that is portable across different cloud platforms (e.g., [Terra](https://terra.bio/), [DNAnexus](https://www.dnanexus.com/), and NHLBI's [BioData Catalyst](https://biodatacatalyst.nhlbi.nih.gov/). Second, as a fellow in the BioData Catalyst Consortium, I led a monthly meeting with fellows and platform reps focused on workflow development (including their "accreditation") and cloud analysis cost estimation. 
