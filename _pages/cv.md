@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Download here](/files/KEW_CV_20230514.pdf) (Updated 2023-05-14)
+[Download here](/files/KEW_CV_20240412.pdf) (Updated 2024-04-12)
