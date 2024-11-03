@@ -28,6 +28,6 @@ author_profile: true
 [Manuscript](https://doi.org/10.1186/s12859-020-03582-7)
 
 **Cloud-based analysis workflows**:  
-[GEM](https://github.com/large-scale-gxe-methods/gem-workflow)  
-[MAGEE](https://github.com/large-scale-gxe-methods/magee-workflow)  
-[dbGaP data download and decryption](https://github.com/manning-lab/fetch-dbgap-data-workflow)
+* [GEM](https://github.com/large-scale-gxe-methods/gem-workflow)  
+* [MAGEE](https://github.com/large-scale-gxe-methods/magee-workflow)  
+* [dbGaP data download and decryption](https://github.com/manning-lab/fetch-dbgap-data-workflow)
