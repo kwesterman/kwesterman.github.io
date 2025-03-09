@@ -21,6 +21,14 @@ I'm grateful for the opportunity to work on some of these problems with experts 
 
 My GxE work falls into a few different domains:
 
+### Polygenic scores for interaction/response
+
+Single-variant GxEs are difficult to find and replicate because the effects are so small. Meanwhile, polygenic scores (PGS) are gaining popularity as a way to aggregate genetic information across the genome, but they are designed to predict *risk* of disease, rather than *response* to some therapeutic intervention. I have worked on multiple different methods for combining the concepts of PGS and GxE interactions to produce genetic scores that might help predict how people will respond differently to lifestyle changes of clinical treatments. One of these ideas involves aggregating over genome-wide GxE effects, rather than genome-wide main effects. Another involves testing for interaction at the level of biological pathways; we think that pathway-specific PGS might be more likely to show strong interactions than genome-wide (standard) PGS.
+
+<p align="center">
+<img src='/images/ipgs_concept.png' width='450'>
+</p>
+
 ### Molecular basis for diet response
 
 Precision nutrition approaches to metabolic disease prevention will require a better understanding of the molecular factors governing inter-individual variability in diet response. To this end, my research has focused on examining how cardiometabolic risk factors are impacted by interactions between diet and molecular quantities, including genomics, epigenomics, and blood biomarkers. Using the Women’s Health Initiative Dietary Modification Trial dataset, I provided evidence that aggregation of thousands of genetic variants into a single “responder score” may predict the LDL-C response to dietary fat. 
@@ -66,6 +74,8 @@ DNA methylation can integrate biological information from genetic variants and e
 </p>
 
 ## Additional topics
+
+Because I can't help myself.
 
 ### Longitudinal data analysis
 
