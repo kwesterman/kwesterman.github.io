@@ -75,7 +75,13 @@ DNA methylation can integrate biological information from genetic variants and e
 
 ## Additional topics
 
-Because I can't help myself.
+### Genetic clustering
+
+The sub-field of genetic clustering analysis aims to uncover disease subtypes based on genetic signatures of underlying disease-associated traits ("endophenotypes"). [Miriam Udler](https://twitter.com/miriam_udler) has played a key role in pushing forward genetic clustering of type 2 diabetes using a Bayesian non-negative matrix factorization approach. I have helped generalize and partially automate the [codebase](https://github.com/gwas-partitioning/bnmf-clustering) for this clustering pipeline, which includes substantial preprocessing of genetic association summary statistics for these endophenotypes. This pipeline has been used in multiple follow-up papers on genetic clustering of type 2 diabetes, both [introducing the pipeline](https://pubmed.ncbi.nlm.nih.gov/36538063/) and describing a [multi-ancestry application](https://pubmed.ncbi.nlm.nih.gov/38443691/).
+
+<p align="center">
+<img src='/images/bnmf_t2d_clusters.png' width='450'>
+</p>
 
 ### Longitudinal data analysis
 
@@ -91,12 +97,4 @@ Prior to beginning my thesis work, I explored a computational approach to predic
 
 <p align="center">
 <img src='/images/phytebyte_diagram.png' width='450'>
-</p>
-
-### Genetic clustering
-
-The sub-field of genetic clustering analysis aims to uncover disease subtypes based on genetic signatures of underlying disease-associated traits ("endophenotypes"). [Miriam Udler](https://twitter.com/miriam_udler) has played a key role in pushing forward genetic clustering of type 2 diabetes using a Bayesian non-negative matrix factorization approach. I have helped generalize and partially automate the [codebase](https://github.com/gwas-partitioning/bnmf-clustering) for this clustering pipeline, which includes substantial preprocessing of genetic association summary statistics for these endophenotypes. This pipeline has been used in multiple follow-up papers on genetic clustering of type 2 diabetes, both [introducing the pipeline](https://pubmed.ncbi.nlm.nih.gov/36538063/) and describing a [multi-ancestry application](https://pubmed.ncbi.nlm.nih.gov/38443691/).
-
-<p align="center">
-<img src='/images/bnmf_t2d_clusters.png' width='450'>
 </p>
